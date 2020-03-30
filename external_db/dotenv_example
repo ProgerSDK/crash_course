@@ -1,0 +1,3 @@
+MYSQL_DB_HOST=wordpress.db.host
+MYSQL_USER=wordpress_user
+MYSQL_PASSWORD=wordpress_pass
